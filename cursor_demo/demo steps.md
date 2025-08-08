@@ -3,13 +3,13 @@
 ## ケース情報の管理
 
 ### 1. 出典の紹介
-case_file_example/小栗 工藤 2019 立教大学臨床心理学研究.pdf
+cursor_demo/case_file_example/小栗 工藤 2019 立教大学臨床心理学研究.pdf
 
 ### 2. 匿名化済みprofileの整形【エージェント】
 
 **プロンプト**:
 ```
-case_file_example/00_profile.md
+cursor_demo/case_file_example/00_profile.md
 はキャリア相談のケースのプロフィール情報のメモです。資料として見やすいようにマークダウンのフォーマットを整形して。
 である調で、必要に応じて箇条書きも使って。内容は削らないで。
 ```
@@ -18,7 +18,7 @@ case_file_example/00_profile.md
 
 **プロンプト**:
 ```
-case_file_example/01_session1.md
+cursor_demo/case_file_example/01_session1.md
 はキャリア相談の面談メモです。概要を整理してください。必要に応じて箇条書きを使用して。最後に、冒頭に要点の
 まとめを追加して。
 ```
@@ -32,7 +32,7 @@ case_file_example/01_session1.md
 
 **プロンプト**:
 ```
-case_file_example
+cursor_demo/case_file_example
 のsession 1 ～ 3 の.mdファイルを確認してこのケースのクライアントのプロフィールとこれまでの対応の概要を示して。
 それを同じフォルダに概要.mdとして保存して。
 ```
@@ -44,14 +44,14 @@ case_file_example
 
 ### 2. 下書き保存
 
-キャリア支援で使えるAI_下書き.txt
+cursor_demo/blog_writing/キャリア支援で使えるAI_下書き.txt
 
 ### 3. ブログ用マークダウンに書き換え【エージェント】
 
 **プロンプト**:
 ```
 このファイルはブログ記事の下書き。ブログ記事としてマークダウンの形式を整えて、.mdファイルで保存して
-blog_writing/キャリア支援で使えるAI_下書き.txt
+cursor_demo/blog_writing/キャリア支援で使えるAI_下書き.txt
 ```
 
 ### 4. はてなブログにコピペ
@@ -63,7 +63,7 @@ blog_writing/キャリア支援で使えるAI_下書き.txt
 
 **プロンプト**:
 ```
-blog_writing/キャリア支援で使えるAI_下書き.md
+cursor_demo/blog_writing/キャリア支援で使えるAI_下書き.md
 の最後に新しいセクションを追加して、下記の内容を入れて。
 
 Github＋Cursorの活用
@@ -162,9 +162,9 @@ https://psyai-consulting.hatenablog.jp/entry/2025/07/24/141410
 
 **プロンプト**:
 ```
-case_file_example
+cursor_demo/case_file_example
 内のsession1.md, 2.md, 3.mdから、アセスメントの結果をそれぞれ読み込んで、
-data_report_example
+cursor_demo/data_report_example
 内にassessment_data.csvとしてデータセットを作成して
 ```
 
@@ -173,7 +173,7 @@ data_report_example
 **プロンプト**:
 ```
 グラフを作成したい。
-data_report_example/assessment_data.csv
+cursor_demo/data_report_example/assessment_data.csv
 のデータを使って、気分、満足度、幸福度の推移を1つの折れ線グラフにして
 コードはpythonで書いて同じフォルダ内に保存。結果は画像ファイル（assessment_trends.png）で同じフォルダ内に保存。日本語フォントが使えるようにして。
 ```
@@ -194,10 +194,10 @@ plt.rcParams["font.family"] に取得した実フォント名を設定し、axes
 
 **プロンプト**:
 ```
-case_file_example
+cursor_demo/case_file_example
 内のsession1.md, 2.md, 3.md内の記述の情報と
-data_report_example/assessment_trend.png
-を使って、レポートを作成して。出力はdata_report_example内に、.mdファイルで。グラフの画像（assessment_trend.png）を必ず入れて。
+cursor_demo/data_report_example/assessment_trend.png
+を使って、レポートを作成して。出力はcursor_demo/data_report_example内に、.mdファイルで。グラフの画像（assessment_trend.png）を必ず入れて。
 ```
 
 **注意**: 今回はゼロから作らせたが、フォーマットを指定すれば、それに合わせて作成可能。ただし、マークダウンやLaTexのフォーマットが望ましい。
