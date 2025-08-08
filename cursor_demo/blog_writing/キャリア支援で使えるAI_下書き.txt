@@ -1,0 +1,120 @@
+キャリア支援で使えるAI【2025年7月18日】
+
+1. 書類作成・自己分析の最適化
+
+Jobscan https://www.jobscan.co/ 【英語】
+ATS（応募者追跡システム）に通過しやすいよう、求人票とのキーワード一致度をチェックして履歴書を最適化。
+
+Resume Worded https://resumeworded.com/【英語】
+履歴書やLinkedInプロフィールを採点し、改善提案と例文を提示。
+
+就活AI by ジェイック https://sai.jaic-g.com/?utm_source=chatgpt.com
+ChatGPTを利用し、自己PRや志望動機の作成を支援する日本語対応ツール。
+
+ChatGPT https://chat.openai.com/
+自己分析やSWOT分析、履歴書の要約・修正など、汎用的な生成AIとして利用可能。
+
+2. 面接トレーニング・コミュニケーション支援
+
+Yoodli https://yoodli.ai/
+AIによる模擬面接サービス。話速・フィラー語・要点漏れなどをリアルタイムでフィードバック。
+
+Interview Warmup https://grow.google/certificates/interview-warmup/
+Google提供のブラウザ面接トレーニング。日本語でも頻出語や言い回しを可視化。
+
+steach 面接練習アプリ https://jaicẹ̀ha.jp/?utm_source=chatgpt.com
+スマホで面接練習ができ、AIが話し方や内容を解析して点数化（参考：AIsmileyの紹介記事 https://aismiley.co.jp/ai_news/steach-ai-tsutawaru/?utm_source=chatgpt.com）。
+
+CAREER BOT（VR面接） https://careerbot.tokyo
+大学ごとにカスタマイズできるチャットボットで、VRを使った模擬面接や企業紹介も提供。
+
+3. キャリア探索・長期コーチング
+
+Dreambound https://www.youtube.com/watch?v=9zqSJecpA5s
+モバイル完結型AIキャリアコーチ。学習プランと求人情報を統合し、長期的な支援を行う。
+
+CoachHub AIMY™ https://siliconcanals.com/ai-tool-of-the-week-aimy/
+人間コーチとAIコーチを組み合わせ、個別行動プランや学習リソースを推奨。
+
+Disco https://www.disco.co/blog/ai-powered-career-coaching-platform
+ソーシャルラーニングとAI分析を組み合わせ、アップスキリングとコーチングを支援。
+
+FutureFit AI https://www.futurefit.ai/?utm_source=chatgpt.com
+労働市場データを取り込み、再就職ロードマップや学習コンテンツを自動生成。
+
+Reflect https://reflect.page/?utm_source=chatgpt.com
+日報・週報へのフィードバックを自動化し、面談後の振り返りと行動計画を支援。
+
+PathwayU https://pathwayu.com/?utm_source=chatgpt.com
+進路心理学モデルに基づき、学部・職業選択の適合度スコアを提供。
+
+CareerScope https://careerscope.com/?utm_source=chatgpt.com
+興味・能力検査をAI化し、面談で活用できるレポートを生成。
+
+IBM Watson Career Coach https://www.ibm.com/products/watsonx-assistant
+従業員のスキルやキャリア履歴に基づき、次の職務や学習機会を提案する企業向けコーチングツール。
+
+4. 労働市場分析・スキルギャップ分析
+
+Lightcast Analyst https://lightcast.io/products/software/analyst?utm_source=chatgpt.com
+1,800億件超の求人データから地域別・職種別の需要や賃金動向を分析。
+
+Lightcast Career Coach https://lightcast.io/products/software/career-coach?utm_source=chatgpt.com
+学生向けの労働市場インサイトを提供し、キャリアセンターで活用。
+
+SkyHive Enterprise https://www.skyhive.ai/products/skyhive-enterprise?utm_source=chatgpt.com
+個人のスキルを詳細に分解し、不足スキルや適した学習プランを提案。
+
+Gloat https://www.gloat.com/
+社員のスキルと市場需要を分析し、内部ジョブマッチングやキャリア開発を支援。
+
+Eightfold https://eightfold.ai/
+AIでスキルギャップを特定し、適切な職務や学習機会を提案する人材プラットフォーム。
+
+日立ソリューションズ AI面談支援サービス https://www.hitachi-solutions.co.jp/
+AIが面談対象者を分類・優先付けし、AIアバターによる自己面談を通じて重要案件への集中を促す。
+
+Dartmouth Career AIガイド https://sites.dartmouth.edu/cpd/ai-career-tools/
+AIが利用者のスキルや価値観のパターンを認識し、潜在的なキャリアを提案。
+
+5. メンタリング・マッチング・適性検査
+
+Delphi AI https://www.delphi.ai/
+専門家の知識をデジタルツイン化し、24時間質問できるAIメンターを構築。
+
+Mentorloop https://mentorloop.com/
+AIによるメンター・メンティの自動マッチングとプログラム管理を提供。
+
+Pymetrics https://www.pymetrics.com/
+神経科学ベースのゲームとAIを用い、適職や企業を提案。ユニリーバなどで採用に活用。
+
+IBM×ウォーリック大学のAIキャリア支援 https://warwick.ac.uk/fac/soc/warwickarts/ctccs/news/ibm_watson_career/
+学生のスキルや興味を分析し、職業オプションを提示する国際事例。
+
+6. チャットボット・自動応答・VR
+
+CAREER BOT https://careerbot.tokyo
+大学向けカスタマイズチャットボット。VR面接や企業紹介、学生データ分析などを提供。
+
+Delphi AI https://www.delphi.ai/
+デジタルツイン型AIメンターとして、クライアントの簡易質問に自動対応。
+
+Dreambound https://www.youtube.com/watch?v=9zqSJecpA5s
+モバイル上で長期的なキャリア伴走を行い、学習と就職活動を統合。
+
+Reflect https://reflect.page/?utm_source=chatgpt.com
+日報や週報をAIが自動評価し、行動計画や学習の振り返りに活用。
+
+7. その他の補助ツール・国際事例
+
+Career.io https://nypost.com/shopping/career-io-review/
+履歴書最適化・面接シミュレーション・求人トラッカーを一体化したサービス。
+
+FutureFit AI Career Copilot https://www.futurefit.ai/product/career-copilot?utm_source=chatgpt.com
+行政機関や職業訓練校が導入し、一次案内をAIが担当するモデル。
+
+CAREER BOT／xRサービス紹介（スタートアップDB） https://startup-db.com/startups/58846
+AIとxRを組み合わせたキャリア支援サービスの概要。
+
+Delphi AIコーチング記事 https://dfplus.io/iq/blog/ai-hr-list-ai-coaching?utm_source=chatgpt.com
+AIコーチングサービスの事例紹介。

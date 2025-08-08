@@ -1,0 +1,192 @@
+# システムファイル
+.bashrc
+.DS_Store
+Thumbs.db
+
+# Python関連
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+*.manifest
+*.spec
+
+# 仮想環境
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE関連
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# pyenv
+.python-version
+
+# pipenv
+Pipfile.lock
+
+# PEP 582
+__pypackages__/
+
+# Celery
+celerybeat-schedule
+celerybeat.pid
+
+# SageMath
+*.sage.py
+
+# 環境変数ファイル
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# ログファイル
+*.log
+logs/
+
+# 一時ファイル
+*.tmp
+*.temp
+temp/
+tmp/
+
+# データベース
+*.db
+*.sqlite
+*.sqlite3
+
+# 文献検索ボット固有
+
+# APIキーと機密情報
+secrets.json
+api_keys.json
+credentials.json
+
+# 検索結果（必要に応じてコメントアウト）
+# searchbot/bib/*.bib
+# searchbot/bib/*.json
+
+# 結合されたBibTeXファイル（必要に応じてコメントアウト）
+# searchbot/merged_references.bib
+
+# Selenium関連
+geckodriver.log
+chromedriver.log
+*.log
+
+# Docker関連
+.dockerignore
+
+# テスト関連
+.coverage
+htmlcov/
+.tox/
+.nox/
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+cover/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# その他
+*.bak
+*.backup
+*.orig
+
+# LaTeX 一時ファイル
+*.aux
+*.lof
+*.log
+*.lot
+*.fls
+*.out
+*.toc
+*.fmt
+*.fot
+*.cb
+*.cb2
+.*.lb
+
+# ビルドディレクトリ
+build/
+
+# 生成されたPDF（必要に応じてコメントアウト）
+# *.pdf
+
+# bibtex/biblatex 関連
+*.bbl
+*.bcf
+*.blg
+*-blx.aux
+*-blx.bib
+*.run.xml
+
+# 索引関連
+*.idx
+*.ilg
+*.ind
+*.ist
+
+# glossaries 関連
+*.acn
+*.acr
+*.glg
+*.glo
+*.gls
+*.glsdefs
+*.lzo
+*.lzs
+
+# latexmk 関連
+*.fdb_latexmk
+*.synctex
+*.synctex(busy)
+*.synctex.gz
+*.synctex.gz(busy)
+*.pdfsync 
